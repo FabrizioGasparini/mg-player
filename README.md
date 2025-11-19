@@ -1,6 +1,6 @@
 # 🧊 MG Player
 
-
+![mg_player_logo](mg_player_logo.png)
 
 Un player audio-video flessibile e moderno
 Realizzato da Merk (Marco Sassi) e Gh3sp (Fabrizio Gasparini)
